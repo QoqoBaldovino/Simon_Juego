@@ -1,5 +1,7 @@
 # Simon_Juego 🧮
 Juego de Memoria "Simon"
+Consta de 10 niveles
+En caso de perder o de ganar, se imprimira un mensaje.
 
 ### Tools
 *  HTML5
