@@ -1,4 +1,4 @@
-# Simon_Juego
+# Simon_Juego 🧮
 Juego de Memoria "Simon"
 
 ### Tools
